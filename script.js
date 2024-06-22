@@ -154,9 +154,7 @@ document.getElementById("loveIn").onclick = function() {
   function bqhilang(){wallpaper.style="transform: scale(2);";bodyblur.style="opacity:.3";bq.style = "position:relative;transition:all .7s ease;";}
 
   async function aksibalas() {
-    await Swal.fire('OK!', 'Kirim pesan ke Telegram aku ya', 'success');
-    window.location = "https://telegra.ph/Webb-06-22-6";
-}
+    await Swal.fire('OK!', 'Kirim pesan ke Telegram aku ya', 'success')}
 
 
 Content.style="display:none";
